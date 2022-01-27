@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bolay",
+    "location": "Boca Raton FL",
+    "type": "Healthy American",
+    "price": "$$"
+  },
+  {
+    "name": "McDonald's",
+    "location": "Boca Raton FL",
+    "type": "American Fast Food",
+    "price": "$"
+  },
+  {
+    "name": "Three Natives",
+    "location": "Boca Raton FL",
+    "type": "Healthy American",
+    "price": "$$$"
+  },
+  {
+    "name": "Table 26",
+    "location": "Boca Raton FL",
+    "type": "American",
+    "price": "$$$$"
+  }
+]
